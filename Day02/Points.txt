@@ -1,0 +1,47 @@
+
+1! = 1
+2! = 2
+
+145! = 1! + 4! + 5!
+     = 1 + 24 + 120
+     = 145
+
+40585   = 4! + 0 + 5! + 8! + 5!
+
+Python DataStructures
+---------------------
+1. Lists
+2. Dictionaries
+3. Tuples
+4. Sets
+
+List are similar to Arrays
+
+Array
+-----
+1. collection of homogenous data
+2. memory allocation is contigious
+
+
+Lists
+-----
+1. collection of hetrogenous data
+2. memory allocation is not contigious
+3. lists are mutable
+4. lists are subscriptable
+5. its an ordered collection
+6. lists are enclosed in []
+
+functions used to manipulate lists
+----------------------------------
+'append',
+'clear',
+'copy',
+'count',
+'extend',
+'index',
+'insert',
+'pop',
+'remove',
+'reverse',
+'sort'
