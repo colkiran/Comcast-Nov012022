@@ -1,0 +1,14 @@
+
+Dictionary
+----------
+1. data is stored in the form of keys and values
+2. {k1: v1, k2: v2, k3: v3.......}
+3. all keys in a dictionary is uniqiue
+4. unordered collection
+
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+Tuple
+-----
+1. immutable list
+2. tuples are enclosed in ()
