@@ -1,0 +1,32 @@
+
+Sets
+-----
+1. are a collection of unique values
+2. sets are not sub scriptable
+3. sets are mutable
+4. are unordered collection
+5. sets are enclosed in  {}
+
+Functions
+---------
+what are functions?
+
+Lambdas
+-------
+what are lambdas?
+
+lambdas are anonymous functions with a single expression
+
+result of exp = lambda var1, var2.... : expression
+
+Uses of lambdas
+---------------
+1. comprehension of list and dictionary
+
+comprehension - iteration of list / dictionary using lambda syntaxes
+
+
+
+
+
+
