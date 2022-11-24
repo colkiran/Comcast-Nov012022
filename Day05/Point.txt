@@ -1,0 +1,24 @@
+
+Scopes
+------
+1. global
+2. local
+3. non local
+
+
+a  = 10
+addr = 2222014556752
+
+b = 10
+addr = 2222014556752
+
+Decorator
+---------
+
+
+def update(amnt)
+    update query    => deducting
+
+update(50000)
+
+
