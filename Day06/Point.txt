@@ -1,0 +1,49 @@
+
+Python OOPs
+-----------
+1. Inheritance
+    new rule implemented
+
+    Banking Example
+    ----------------
+    90's Withdraw Money
+    -------------------
+    1. cheque - self, give it to others
+    2. DD - Demand Draft
+
+    mid 2000 - 2010
+    ---------------
+    Debit Card (withdraw)
+
+2. Polymorphism
+
+3. Abstraction
+
+4. Encapsulation
+
+
+Class  - blue print of your business
+
+class attribute - class variable
+
+Operator Overloading
+--------------------
++ => add numbers or concatenate string => add objects
+
++ = __add__()
+
+- = __sub__()
+
+Arithmetic Operators
+---------------------
++, -, *, /, //
+
+
+
+
+
+
+
+
+
+
